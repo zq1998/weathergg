@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="weathergg" />
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.zq.weathergg.Province"/>
+        <mapping class="com.example.zq.weathergg.City"/>
+        <mapping class="com.example.zq.weathergg.County"/>
+    </list>
+</litepal>
